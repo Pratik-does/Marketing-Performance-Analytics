@@ -181,7 +181,7 @@ Marketing-Performance-Analytics-Dashboard/
 - Run the app
 - streamlit run app.py
 - Project Goal
-
+### Streamlit Link - https://marketing-performance-analytics-kzb8znocu34akybetf2onx.streamlit.app/
 ## The goal of this project is to demonstrate an industry-style marketing analytics workflow that combines:
 
 - data preparation
